@@ -16,6 +16,7 @@ export const SUBJECTS = {
     ],
     'Pathology': [
         'Complete Pathology'
+        'Amyloidosis'
     ],
     'Pharmacology': [
         'Complete Pharmacology'
